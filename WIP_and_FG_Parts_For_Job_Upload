@@ -1,0 +1,17 @@
+Select 
+P.part_no
+
+From part_v_part as p
+Join part_v_part_status as ps
+on ps.part_status = p.part_status
+join part_v_part_operation as po
+on p.part_key = po.part_key
+join part_v_operation as o
+on po.operation_key = o.operation_key
+join part_v_part_op_type as pot
+on po.part_op_type_key = pot.part_op_type_key
+
+Where  ps.active = 1
+and (pot.rework = 0 and pot.cell = 0) 
+and (o.inventory_type = 'Finished Goods' or o.inventory_type = 'WIP') 
+and o.operation_code != 'subcontract'
