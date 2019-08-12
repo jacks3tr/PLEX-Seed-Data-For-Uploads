@@ -7,3 +7,6 @@ o	If you want dynamic locations, the following would put certain operations in s
 -	It rounds quantity and weights to whole numbers to avoid regional issues like decimal/comma differences.
 -	If you have data that includes leading 0’s, commas, etc. you will need to use XML and may still have issues (I try to avoid data like this).
 -	I wrote this in a general way that should work for most projects. However, it doesn’t account for all configs (lot management, for example) – in those cases, it should be useful as a starting point.  
+
+# PLEX-Seed-Data-For-Uploads
+The remaining quieries will return a simple list of the currently active parts or routings to be the basis for various uploads.
