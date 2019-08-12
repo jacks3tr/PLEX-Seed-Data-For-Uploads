@@ -1,92 +1,54 @@
-SELECT
-'' as 'Supplier Serial Number',
+SELECT 
+'' as Supplier_Serial_Number,
 P.part_no as Part,
 P.Revision as Rev,
 o.operation_code as Operation,
 '' as Material,
 '' as Heat,
-'Shipping Dock' as location,
+'Receiving' as location,
 'Ok' as Status,
-'' as 'Defect Type',           
-Case when ct.Container_Type is null then 'bin'  else ct.Container_Type end as 'Container Type',              
+'' as Defect_Type,            
+Case when ct.Container_Type is null then 'bin'  else ct.Container_Type end as Container_Type,               
 Ceiling( Case when ac.Standard_Pack_Quantity is null then 100 else ac.Standard_Pack_Quantity end ) as Quantity,
-Ceiling( Case when ct.Standard_Tare_Weight is null then 10 else ct.Standard_Tare_Weight end ) as'Tare Weight',
-Ceiling( Case when ((po.Net_Weight*ac.Standard_Pack_Quantity)+ct.Standard_Tare_Weight) is null then 100 else ((po.Net_Weight*ac.Standard_Pack_Quantity)+ct.Standard_Tare_Weight) end ) as 'Gross Weight',
-Ceiling( Case when (po.Net_Weight*ac.Standard_Pack_Quantity) is null then 90 else (po.Net_Weight*ac.Standard_Pack_Quantity) end ) as 'Net Weight',
---'' as Receipt,
-'' as 'From Container',
-'1'as Active,
+Ceiling( Case when ct.Standard_Tare_Weight is null then 10 else ct.Standard_Tare_Weight end ) as Tare_Weight,
+Ceiling( Case when ((po.Net_Weight*ac.Standard_Pack_Quantity)+ct.Standard_Tare_Weight) is null then 100 else ((po.Net_Weight*ac.Standard_Pack_Quantity)+ct.Standard_Tare_Weight) end ) as Gross_Weight,
+Ceiling( Case when (po.Net_Weight*ac.Standard_Pack_Quantity) is null then 90 else (po.Net_Weight*ac.Standard_Pack_Quantity) end ) as Net_Weight,
+'' as Receipt,
+'' as From_Container,
+'1' as Active,
 '' as Note,
-'' as 'Lot Number',
-'' as 'Master Unit No',
-'' as 'Special Instructions',
-'' as Containers,
-'' as Size,
-'' as Length,
-'' as 'Tracking No',
-'' as 'Job Operation',
-'' as 'Job Number',
-'' as 'Shelf Date',
-'' as Cost,
-'' as 'Customer Code',
-'' as 'Container Mill Status',
-'' as Class,
-'' as 'Mill Coil No',
-'' as 'OSPCoil No',
-'' as 'Mill Order No',
-'' as 'Mill Item No',
-'' as 'Theoretical Weight',
-'' as 'Mill Weight',
-'' as 'Heat Code',
-'' as 'Received Heat No',
-'' as 'Release Number',
-'' as 'Shipper Number',
-'' as 'SCACCode',
-'' as Thickness,
-'' as Width,
-'' as 'EDIKey',
-'' as 'Actual Quantity', 
-'' as 'Job No', 
-'' as 'Supplier No', 
-'' as 'Rescale Flag', 
-'' as 'Original Scale Weight', 
-'' as 'Original Length', 
-'' as Proof, 
-'' as 'Proof Volume', 
-'' as 'Manufacturer Part No', 
-'' as 'Manufacturer Part Revision', 
-'' as 'Accounting Job No'
-
+'' as Lot_Number,             '' as Master_Unit_No,     '' as Special_Instructions, '' as     Containers, '' as           Size, '' as              Length, '' as        Tracking_No, '' as Job_Operation, '' as     Job_Number,               '' as Shelf_Date, '' as       Cost,      '' as Customer_Code,       '' as Container_Mill_Status,               '' as Class, '' as Mill_Coil_No, '' as OSP_Coil_No,   '' as Mill_Order_No, '' as Mill_Item_No,    '' as Theoretical_Weight, '' as      Mill_Weight, '' as Heat_Code, '' as               Received_Heat_No, '' as Release_Number, '' as    Shipper_Number, '' as     SCAC_Code, '' as           Thickness, '' as   Width, '' as         EDI_Key, '' as      Actual_Quantity, '' as Job_No, '' as Supplier_No, '' as             Rescale_Flag, '' as            Original_Scale_Weight, '' as               Original_Length, '' as      Proof, '' as           Proof_Volume, '' as               Manufacturer_Part_No, '' as       Manufacturer_Part_Revision, '' as               Accounting_Job_No
  
-FROM part_v_part as p
-
-JOIN part_v_part_operation as po
+ 
+From part_v_part as p
+ 
+Join part_v_part_operation as po
 on p.part_key = po.part_key
-
+ 
 join part_v_operation as o
 on o.operation_key = po.operation_key
-
+ 
 join part_v_Part_Op_Type as pot
 on pot.Part_Op_Type_Key =        po.Part_Op_Type_Key
-
+ 
 left outer Join part_v_approved_workcenter as aw
 on aw.Part_Operation_Key = po.Part_Operation_Key
-
+ 
 Left outer join part_v_Part_Operation_Approved_Container as ac
 on ac.Part_Operation_Key = po.Part_Operation_Key
-
+ 
 left outer Join part_v_container_type as ct
 on ct.Container_Type_Key = ac.Container_Type_Key
-
+ 
 left outer Join part_v_workcenter as w
 on w.Workcenter_Key= aw.Workcenter_Key
-
+ 
 Join part_v_part_status as ps
 on ps.part_status = p.part_status
-
+ 
 where ps.active = 1
 and po.active = 1
 and pot.Standard = 1
 and pot.cell = 0
-
+ 
 order by p.part_no
