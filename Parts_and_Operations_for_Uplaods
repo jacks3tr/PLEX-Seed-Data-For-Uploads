@@ -1,0 +1,19 @@
+Select 
+P.part_no,
+o.operation_code
+
+From part_v_part as p
+
+Join part_v_part_operation as po
+on p.part_key = po.part_key
+
+join part_v_operation as o
+on o.operation_key = po.operation_key
+
+Join part_v_part_status as ps
+on ps.part_status = p.part_status
+
+where ps.active = 1
+--Optional--
+-- and o.operation_code like '%recep%'
+-- or o.operation_code like '%sub%'
