@@ -1,0 +1,127 @@
+<?xml version="1.0"?><?mso-application progid="Excel.Sheet"?><?MicrosoftWindowsSharePointServices ContentTypeID="0x01010061A2847C1713684FA3B77B31C361502E"?><Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>BPOSTON</Author>
+  <LastAuthor>Poston, Ben</LastAuthor>
+  <Created>2018-07-26T18:36:05Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8592</WindowHeight>
+  <WindowWidth>20160</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Bottom"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Worksheet1">
+  <Table ss:ExpandedColumnCount="56" ss:ExpandedRowCount="2" x:FullColumns="1" x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="14.55">
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Record_Add_Update</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Workcenter_Code</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Workcenter_Code_New</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Workcenter_Type</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Building_Code</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Shift_Cycle</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Cost_Unit</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Default_Location</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Workcenter_Group</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Scheduling_Method</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PLC_Name</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Server_Name</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Resource_Name</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Department_Code</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Location_Type</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Periodic_Quantity_Unit</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Location_Group</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Note</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Allow_Schedule</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Overhead_Cost</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Variable_Cost</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Active</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Finite_Percent</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Workcenter_Size</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Account_No</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Efficiency</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Machine_Integration</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Sort_Order</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Direct_Labor_Cost</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">IPAddress</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Allow_Master_Unit_Build</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Suppress_Label</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Auto_Unload_Source</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Password_Required_For_Production</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Square_Area</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Setup_Check_Expiration_Days</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Lifetime</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Maintenance_Cost</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Fair_Market_Value</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Crop_Length</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Periodic_Quantity</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Setup_Cost</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Global_Production_Rate</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Target_Value_Add</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Key_Reporting</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Other_Burden_Cost</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Counted_Production</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Multiple_Source_Containers_Allow</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Resource_Required</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Default_Crew_Size</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Default_Lead_Time</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Default_Setup_Time</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Default_Ideal_Rate</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Default_Standard_Production_Rate</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Job_Dispatch_Schedule_Promote_Allow</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Workcenter_Name</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Add</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Audit Area</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Standard</Data></Cell>
+    <Cell><Data ss:Type="String">Main</Data></Cell>
+    <Cell><Data ss:Type="String">M-F 1st &amp; 2nd</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">Workcenter</Data></Cell>
+    <Cell ss:Index="19"><Data ss:Type="String">Y</Data></Cell>
+    <Cell ss:Index="22"><Data ss:Type="String">Y</Data></Cell>
+    <Cell ss:Index="31"><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:Index="56" ss:StyleID="s64"><Data ss:Type="String">01 Washer</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>15</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,251 @@
+Part No,Revision,Operation No,Operation,Part Op Type,Suboperation,Net Weight,Standard Value,Minimum Inventory,Multiple,Standard Container Type,Standard Quantity,Operation Description,Label Format Key,Location,Bulletin,Minimum Quantity,Scrap,Shippable,Other Note,Active,Flowchart Symbol
+01 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+02 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+03 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+04 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+05 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+06 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+07 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+08 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+09 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+10 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+11 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+12 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+13 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+14 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+15 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+16 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+17 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+18 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+19 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+20 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+21 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+22 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+23 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+24 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+25 Plastic Case,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+01 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+02 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+03 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+04 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+05 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+06 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+07 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+08 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+09 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+10 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+11 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+12 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+13 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+14 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+15 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+16 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+17 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+18 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+19 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+20 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+21 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+22 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+23 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+24 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+25 Plastic Case,,20,Washing,Production,,0.1,,,1,Box,20,Washing at 10 ft per min,,,,,,,,1,Operation
+01 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 01,,,,,,1,Operation
+02 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 02,,,,,,1,Operation
+03 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 03,,,,,,1,Operation
+04 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 04,,,,,,1,Operation
+05 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 05,,,,,,1,Operation
+06 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 06,,,,,,1,Operation
+07 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 07,,,,,,1,Operation
+08 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 08,,,,,,1,Operation
+09 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 09,,,,,,1,Operation
+10 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 10,,,,,,1,Operation
+11 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 11,,,,,,1,Operation
+12 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 12,,,,,,1,Operation
+13 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 13,,,,,,1,Operation
+14 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 14,,,,,,1,Operation
+15 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 15,,,,,,1,Operation
+16 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 16,,,,,,1,Operation
+17 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 17,,,,,,1,Operation
+18 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 18,,,,,,1,Operation
+19 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 19,,,,,,1,Operation
+20 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 20,,,,,,1,Operation
+21 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 21,,,,,,1,Operation
+22 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 22,,,,,,1,Operation
+23 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 23,,,,,,1,Operation
+24 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 24,,,,,,1,Operation
+25 Plastic Case,,30,Inspection,Production,,0.1,,,1,Box,20,Inspect for flashing and cleaning,,WHSE 25,,,,,,1,Operation
+01 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 01,,,,,,1,Operation
+02 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 02,,,,,,1,Operation
+03 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 03,,,,,,1,Operation
+04 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 04,,,,,,1,Operation
+05 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 05,,,,,,1,Operation
+06 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 06,,,,,,1,Operation
+07 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 07,,,,,,1,Operation
+08 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 08,,,,,,1,Operation
+09 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 09,,,,,,1,Operation
+10 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 10,,,,,,1,Operation
+11 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 11,,,,,,1,Operation
+12 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 12,,,,,,1,Operation
+13 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 13,,,,,,1,Operation
+14 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 14,,,,,,1,Operation
+15 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 15,,,,,,1,Operation
+16 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 16,,,,,,1,Operation
+17 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 17,,,,,,1,Operation
+18 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 18,,,,,,1,Operation
+19 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 19,,,,,,1,Operation
+20 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 20,,,,,,1,Operation
+21 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 21,,,,,,1,Operation
+22 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 22,,,,,,1,Operation
+23 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 23,,,,,,1,Operation
+24 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 24,,,,,,1,Operation
+25 CR Battery,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 25,,,,,,1,Operation
+01 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 01,,,,,,1,Operation
+02 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 02,,,,,,1,Operation
+03 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 03,,,,,,1,Operation
+04 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 04,,,,,,1,Operation
+05 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 05,,,,,,1,Operation
+06 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 06,,,,,,1,Operation
+07 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 07,,,,,,1,Operation
+08 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 08,,,,,,1,Operation
+09 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 09,,,,,,1,Operation
+10 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 10,,,,,,1,Operation
+11 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 11,,,,,,1,Operation
+12 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 12,,,,,,1,Operation
+13 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 13,,,,,,1,Operation
+14 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 14,,,,,,1,Operation
+15 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 15,,,,,,1,Operation
+16 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 16,,,,,,1,Operation
+17 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 17,,,,,,1,Operation
+18 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 18,,,,,,1,Operation
+19 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 19,,,,,,1,Operation
+20 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 20,,,,,,1,Operation
+21 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 21,,,,,,1,Operation
+22 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 22,,,,,,1,Operation
+23 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 23,,,,,,1,Operation
+24 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 24,,,,,,1,Operation
+25 Circuit Board,,10,Receive pcs,Production,,0.25,,,1,Box,10,Receive Material,,Dock 25,,,,,,1,Operation
+01 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+02 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+03 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+04 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+05 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+06 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+07 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+08 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+09 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+10 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+11 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+12 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+13 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+14 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+15 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+16 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+17 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+18 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+19 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+20 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+21 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+22 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+23 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+24 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+25 Key Fob,,10,Assembly and Pack,Production,,0.25,,,1,Carton,5,Press Battery and Circuit Board onto Plastic Case,,,,,,,,1,Operation with inspection
+01 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 01,,,,,,1,Operation with inspection
+02 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 02,,,,,,1,Operation with inspection
+03 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 03,,,,,,1,Operation with inspection
+04 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 04,,,,,,1,Operation with inspection
+05 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 05,,,,,,1,Operation with inspection
+06 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 06,,,,,,1,Operation with inspection
+07 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 07,,,,,,1,Operation with inspection
+08 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 08,,,,,,1,Operation with inspection
+09 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 09,,,,,,1,Operation with inspection
+10 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 10,,,,,,1,Operation with inspection
+11 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 11,,,,,,1,Operation with inspection
+12 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 12,,,,,,1,Operation with inspection
+13 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 13,,,,,,1,Operation with inspection
+14 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 14,,,,,,1,Operation with inspection
+15 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 15,,,,,,1,Operation with inspection
+16 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 16,,,,,,1,Operation with inspection
+17 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 17,,,,,,1,Operation with inspection
+18 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 18,,,,,,1,Operation with inspection
+19 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 19,,,,,,1,Operation with inspection
+20 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 20,,,,,,1,Operation with inspection
+21 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 21,,,,,,1,Operation with inspection
+22 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 22,,,,,,1,Operation with inspection
+23 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 23,,,,,,1,Operation with inspection
+24 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 24,,,,,,1,Operation with inspection
+25 Key Fob,,20,Screen Printing,Production,,0.25,,,1,Carton,5,Screen Printing at outside processor,,WHSE 25,,,,,,1,Operation with inspection
+01 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 01,,,,,,1,Operation
+02 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 02,,,,,,1,Operation
+03 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 03,,,,,,1,Operation
+04 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 04,,,,,,1,Operation
+05 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 05,,,,,,1,Operation
+06 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 06,,,,,,1,Operation
+07 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 07,,,,,,1,Operation
+08 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 08,,,,,,1,Operation
+09 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 09,,,,,,1,Operation
+10 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 10,,,,,,1,Operation
+11 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 11,,,,,,1,Operation
+12 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 12,,,,,,1,Operation
+13 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 13,,,,,,1,Operation
+14 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 14,,,,,,1,Operation
+15 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 15,,,,,,1,Operation
+16 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 16,,,,,,1,Operation
+17 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 17,,,,,,1,Operation
+18 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 18,,,,,,1,Operation
+19 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 19,,,,,,1,Operation
+20 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 20,,,,,,1,Operation
+21 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 21,,,,,,1,Operation
+22 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 22,,,,,,1,Operation
+23 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 23,,,,,,1,Operation
+24 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 24,,,,,,1,Operation
+25 PS Resin,,10,Receive lbs,Production,,1,,,1,Bag,100,,,Dock 25,,,,,,1,Operation
+01 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+02 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+03 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+04 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+05 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+06 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+07 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+08 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+09 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+10 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+11 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+12 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+13 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+14 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+15 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+16 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+17 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+18 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+19 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+20 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+21 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+22 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+23 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+24 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+25 Plastic Top,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+01 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+02 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+03 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+04 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+05 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+06 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+07 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+08 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+09 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+10 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+11 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+12 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+13 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+14 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+15 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+16 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+17 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+18 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+19 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+20 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+21 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+22 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+23 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+24 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation
+25 Plastic Bottom,,10,Press,Production,,0.1,,,1,Box,20,Injection Molding at 345 PSI,,,,,,,,1,Operation

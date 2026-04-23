@@ -1,0 +1,79 @@
+﻿Term Subject,Term,Active
+Current Detection Control,Automatic Inspection,Y
+Current Detection Control,GD&T Check Fixture,Y
+Current Detection Control,Go/No-Go Test,Y
+Current Detection Control,In Process Inspection,Y
+Current Detection Control,None,Y
+Current Detection Control,Visual Observation,Y
+Current Prevention Control,First Piece Inspection,Y
+Current Prevention Control,Go-No Go Check,Y
+Current Prevention Control,None,Y
+Current Prevention Control,Poke-Yoke,Y
+Current Prevention Control,Setup Inspection,Y
+Current Prevention Control,Visual Observation,Y
+End User Failure Effect,Function Degraded,Y
+End User Failure Effect,Function Failure,Y
+End User Failure Effect,Health/Safety Risk,Y
+End User Failure Effect,None,Y
+End User Failure Effect,Objectionable Appearance,Y
+Process Characteristic Description,Clamp Tightness,Y
+Process Characteristic Description,Nut Torque (N),Y
+Process Characteristic Description,Pressure (kPSI),Y
+Process Characteristic Description,Spindle Speed (RPM),Y
+Process Characteristic Description,Temperature (C),Y
+Process Characteristic Description,Temperature (F),Y
+Process Characteristic Item,P001,Y
+Process Characteristic Item,P002,Y
+Process Characteristic Item,P003,Y
+Process Characteristic Item,P004,Y
+Process Step Failure Mode,Burrs,Y
+Process Step Failure Mode,Buttons not working,Y
+Process Step Failure Mode,Cracks,Y
+Process Step Failure Mode,Gaps,Y
+Process Step Failure Mode,Gaps/Misalignment,Y
+Process Step Failure Mode,Out of Round,Y
+Process Step Failure Mode,Out of Square,Y
+Process Step Failure Mode,Oversize,Y
+Process Step Failure Mode,Undersize,Y
+Process Step Function,Assembly,Y
+Process Step Function,Installation,Y
+Process Step Function,Machining,Y
+Process Step Function,Molding,Y
+Process Step Function,Stamping,Y
+Process Work Element Function,Drill,Y
+Process Work Element Function,Form,Y
+Process Work Element Function,Grind,Y
+Process Work Element Function,Injection,Y
+Process Work Element Function,Mold,Y
+Process Work Element Function,Pierce,Y
+Process Work Element Function,Press,Y
+Process Work Element Function,Tap,Y
+Product Characteristic Description,Diameter (ID),Y
+Product Characteristic Description,Diameter (OD),Y
+Product Characteristic Description,Gap Thickness,Y
+Product Characteristic Description,Height,Y
+Product Characteristic Description,Length (Overall),Y
+Product Characteristic Description,Thickness,Y
+Product Characteristic Item,1,Y
+Product Characteristic Item,2,Y
+Product Characteristic Item,3,Y
+Product Characteristic Item,4,Y
+Ship To Plant Failure Effect,Health/Safety Risk,Y
+Ship To Plant Failure Effect,Line Shutdown,Y
+Ship To Plant Failure Effect,Line Slowdown,Y
+Ship To Plant Failure Effect,None,Y
+Ship To Plant Failure Effect,Rejection,Y
+Ship To Plant Failure Effect,Sort,Y
+Work Element Failure Cause,Circuit Board Failure,Y
+Work Element Failure Cause,Incorrect Pressure,Y
+Work Element Failure Cause,Incorrect Program,Y
+Work Element Failure Cause,Material Condition,Y
+Work Element Failure Cause,"Power Setting,",Y
+Work Element Failure Cause,Tool Selection,Y
+Work Element Failure Cause,Tool Wear,Y
+Your Plant Failure Effect,Health/Safety Risk,Y
+Your Plant Failure Effect,Inconvenience,Y
+Your Plant Failure Effect,None,Y
+Your Plant Failure Effect,Rework,Y
+Your Plant Failure Effect,Scrap,Y
+Your Plant Failure Effect,Sorting,Y
